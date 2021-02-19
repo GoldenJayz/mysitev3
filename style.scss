@@ -1,0 +1,88 @@
+button {
+  color: black;
+}
+
+body {
+  background-color: rgb(31, 30, 30);
+}
+
+.special-dash {
+  color: white;
+}
+
+#mySidebar {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.main-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 45px;
+  margin-top: 5%;
+}
+
+.title-text p {
+  color: rgb(255, 255, 255);
+  text-align: center !important;
+  z-index: 100;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+  margin-top: 135px;
+  font-family: "Poppins", sans-serif;
+  font-size: 75px;
+  bottom: 1px;
+  right: 1px;
+}
+
+html {
+  height: 100%;
+  background-color: rgb(31, 30, 30);
+}
+
+body {
+  height: 100%;
+  background-image: url("https://webgradients.com/public/webgradients_png/019%20Malibu%20Beach.png");
+  background-repeat: repeat-y;
+  background-size: 10%;
+}
+
+
+.title-text {
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-left: 10%;
+}
+
+.title-text img {
+    position: relative;
+    width: 1000px;
+    height: auto;
+    filter: blur(8px);
+    -webkit-filter: blur(4px);
+    margin-right: 200px;
+}
+
+p {
+    position: absolute;
+    top: 5%;
+    left: 100%;
+}
+
+#contain1 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+}
+
